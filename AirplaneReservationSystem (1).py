@@ -59,13 +59,13 @@ def display_welcome():
     print(" * *   * *   *         *        *        *       *   *     *   *       ")
     print(" *       *   * * * *   * * * *   * * *    * * * *    *     *   * * * * ")
     print("")
-    print(" ******   *     *    ********    ********                ********   ********                **       ******    *******     *       *   *            ")
-    print("   *      *     *        *       *                          *       *                      *  *      *     *   *      *    *       *   *             ")
-    print("   *      *******        *       ********                   *       ********              ******     *******   *       *   *       *   *             ")
-    print("   *      *     *        *              *                   *              *             *      *    *     *   *       *   *       *   *              ")
-    print("   *      *     *    ********    ********                ********   ********            *        *   *******   *********   ********    *********               ")
+    print(" ******   *     *    ********    ********                ********   ********        *    *         **        *        *        **        *         ")
+    print("   *      *     *        *       *                          *       *               *   *         *  *       * *   *  *       *  *       *          ")
+    print("   *      *******        *       ********                   *       ********        * **         ******      *   *    *      ******      *          ")
+    print("   *      *     *        *              *                   *              *        *   *       *      *     *        *     *      *     *           ")
+    print("   *      *     *    ********    ********                ********   ********        *     *    *        *    *        *    *        *    ********            ")
 
-    print(f"{bcolors.BOLD}{bcolors.HEADER}{bcolors.UNDERLINE}Welcome to https://github.com/abdul8055, "
+    print(f"{bcolors.BOLD}{bcolors.HEADER}{bcolors.UNDERLINE},https://github.com/kamalroyal248/airplane-/edit/main/AirplaneReservationSystem%20(1).py "
           f"We would like to take some information:{bcolors.ENDC}{bcolors.ENDC}{bcolors.ENDC}")
 
 
@@ -409,7 +409,7 @@ def display_boarding_pass():  # displaying boarding pass -----------------------
             cost = 10000
 
         #  I know you want to change the travels name? ↓↓↓
-        print("     https://github.com/abdul8055  ")
+        print("     https://github.com/kamalroyal248/airplane-/edit/main/AirplaneReservationSystem%20(1).py  ")
 
         print(f"{bcolors.OKBLUE}Name: {bcolors.ENDC}{name[i]} "
               f"{bcolors.OKBLUE}Flight: {bcolors.ENDC}OKL012"
